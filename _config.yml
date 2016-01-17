@@ -2,9 +2,9 @@
 title: Pingxia@sharing
 email: 
 description: > # this means to ignore newlines until "baseurl:"
- Here is my personal blog.
+ Here is my personal blog sharing my experiences, thoughts and more.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://chenshuying.github.io" # the base hostname & protocol for your site
+url: "http://pingxiahu.me" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  
 
