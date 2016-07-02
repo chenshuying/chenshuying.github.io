@@ -19,7 +19,7 @@ layout: default
                 </div>
 
                 <div class="post-preview">
-                    <p>{{ post.content | strip_html | truncatewords:30 }}
+                    <p>{{ post.content | strip_html | truncatewords:50 }}
                 </div>
                 <a class="post-meta" href="{{ post.url | prepend: site.baseurl }}">Continue reading</a>
             </div>
